@@ -1,0 +1,3 @@
+baseurl: /flex-panel
+exclude: ['README.md']
+permalink: pretty
