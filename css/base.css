@@ -1,0 +1,23 @@
+html {
+  box-sizing: border-box;
+}
+
+body {
+  font-weight: 200;
+  margin: 0;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+footer {
+  background-color: black;
+  text-align: center;
+}
+
+a {
+  color: white;
+}
